@@ -1,0 +1,20 @@
+﻿3428   []   INFO   2023-03-02 05:24:39.830   TM1.Server   Closing...
+3428   []   INFO   2023-03-02 05:24:39.831   TM1.Server   Saving...
+3428   []   INFO   2023-03-02 05:24:39.831   TM1.Server   The server is coming down...
+3428   []   INFO   2023-03-02 05:24:39.848   TM1.Server   TM1ServerImpl::Destroy: disconnect clients
+3428   []   INFO   2023-03-02 05:24:39.848   TM1.Server   TM1ServerImpl::Destroy: destroy all clients
+3428   []   INFO   2023-03-02 05:24:39.848   TM1.Server   TM1ServerImpl::Destroy: Deactive all chores
+14784   []   INFO   2023-03-02 05:24:39.856   TM1.Server   Terminating Admin Server poller thread.
+3428   []   INFO   2023-03-02 05:24:39.857   TM1.Server   TM1ServerImpl::Destroy: Save server data
+3428   []   INFO   2023-03-02 05:24:39.884   TM1.Server   TM1ServerImpl::Destroy: destroy chores
+3428   []   INFO   2023-03-02 05:24:39.884   TM1.Server   TM1ServerImpl::Destroy: destroy processes
+3428   []   INFO   2023-03-02 05:24:39.884   TM1.Server   TM1ServerImpl::Destroy: destroy blobs
+3428   []   INFO   2023-03-02 05:24:39.884   TM1.Server   TM1ServerImpl::Destroy: destroy sets
+3428   []   INFO   2023-03-02 05:24:39.884   TM1.Server   TM1ServerImpl::Destroy: destroy groups
+3428   []   INFO   2023-03-02 05:24:39.884   TM1.Server   TM1ServerImpl::Destroy: destroy clients
+3428   []   INFO   2023-03-02 05:24:39.884   TM1.Server   TM1ServerImpl::Destroy: destroy cubes
+3428   []   INFO   2023-03-02 05:24:39.894   TM1.Server   TM1ServerImpl::Destroy: destroy dimensions
+3428   []   INFO   2023-03-02 05:24:39.909   TM1.Server   TM1ServerImpl::Destroy: destroy connections
+3428   []   INFO   2023-03-02 05:24:39.909   TM1.Server   TM1ServerImpl::Destroy: Destroy unregistered objects
+3428   []   INFO   2023-03-02 05:24:39.909   TM1.Server   TM1ServerImpl::Destroy: Commit changes
+3428   []   INFO   2023-03-02 05:24:40.075   TM1.Server   Server shutdown, elapsed time 1.00 seconds

@@ -1,0 +1,16 @@
+﻿#LOG_FORMAT=1
+#LOGID=21
+#LOGIV=
+#"","20230302052245","CubeSerialized: 01.CursCB{Day: by Admin"
+#"","20230302052245","CubeSerialized: }DimensionProperties: by Admin"
+#"","20230302052245","CubeSerialized: }ElementAttributes_Measure{Curs: by Admin"
+#"","20230302052245","CubeSerialized: }ElementAttributes_}Cultures: by Admin"
+"","20230302052254","20230302052254","Admin","S","20230302052245","20230302052254","}DimensionProperties","}Processes","LAST_TIME_UPDATED",""
+#"","20230302052439","CubeSerialized: }DimensionProperties: by *"
+#"","20230302052439","CubeSerialized: }StatsByChore: by *"
+#"","20230302052439","CubeSerialized: }StatsByClient: by *"
+#"","20230302052439","CubeSerialized: }StatsByCube: by *"
+#"","20230302052439","CubeSerialized: }StatsByCubeByClient: by *"
+#"","20230302052439","CubeSerialized: }StatsByProcess: by *"
+#"","20230302052439","CubeSerialized: }StatsForServer: by *"
+
