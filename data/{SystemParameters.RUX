@@ -1,0 +1,3 @@
+﻿FORMAT==100
+['{SystemParameter':'1','{SystemValue':'1'] = N: Year(Today(1))*10000 + Month(Today)*100 +  Day(Today);
+['{SystemParameter':'1','{SystemValue':'2'] = S: TimSt (Now , '\Y\m\d');

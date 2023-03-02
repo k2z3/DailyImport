@@ -1,0 +1,10 @@
+﻿283,100
+284,"Даты"
+11,20230302091238
+274,Caption
+18,0
+275,250
+TAIL(FILTER({TM1FILTERBYLEVEL(TM1SUBSETALL(YearMonthDay),0)},[YearMonthDay].CurrentMember.Name<=[{SystemParameters].([{SystemParameter].[1],[{SystemValue].[2])),20)//STRTOMEMBER(//'[Date].[Calendar].[Date].&['+//Format(Now(),'yyyyMMdd')+']'//--)
+278,0
+281,0
+270,0
